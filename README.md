@@ -266,7 +266,7 @@ This excel contains the DGE summary along with additional annotation-specific sh
 
 
 ## Support
-For support with using these scripts, please contact lbutkovich@ucsb.edu.
+For support with using these scripts, please contact butkovichlaza@gmail.com.
 
 ## Authors and Acknowledgements
 Primary author: Lazarina Butkovich (University of California, Santa Barbara)
